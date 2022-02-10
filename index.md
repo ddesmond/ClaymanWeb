@@ -10,7 +10,7 @@ help users to keep assets tidy and searchable. It aims to be fast and responsive
 **Application support**: Clarisse iFX 5.0 sp7+ Python3 (not yet public)
 
 #### Featureset:
-- Clayman Asset Manager:
+Clayman Asset Manager:
   - Standalone libraries driven by user configuration or environment variables
   - Library creation and loading, library history
   - Import, export and delete Asset Packages
@@ -26,7 +26,7 @@ help users to keep assets tidy and searchable. It aims to be fast and responsive
   - Plugins (not in Alpha)
 
 
-- Clayman Asset Import:
+Clayman Asset Import:
   - Asset import User interface
   - Copy Assets to Library
   - Link assets in the Packakge (no copy, reference already existing location)
