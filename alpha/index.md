@@ -1,7 +1,7 @@
 Current Alpha builds:
 
-[Windows 10](https://clayman.app)
+[Windows 10](https://www.clayman.app/alpha/downloads/)
 
-[MacOs 10.14+](https://clayman.app)
+[MacOs 10.14+](https://www.clayman.app/alpha/downloads/)
 
 [Centos 7.6]() Not yet available
