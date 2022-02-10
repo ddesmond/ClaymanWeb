@@ -51,5 +51,5 @@ Development status: **Beta**
 Having trouble with Clayman? Check out our [documentation](https://www.clayman.app/help) or [contact support](https://www.clayman.app/support)
 
 
-### Support or Contact
+  ---
 Copyright 2022 All rights reserved. Obrt Dobro, Aleks Katunar
