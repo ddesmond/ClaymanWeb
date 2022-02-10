@@ -1,4 +1,4 @@
-<img src="/splash.png">
+<img src="splash.png">
 **Welcome to the offical repository of the famous Clayman Manager.**
 
 Clayman is a modern asset manager browser system designed to
