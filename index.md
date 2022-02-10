@@ -1,16 +1,16 @@
 <img src="splash.png">
 
-Welcome to the offical repository of the famous Clayman Manager.
+**Welcome to the offical repository of the famous Clayman Manager.**
 
-Clayman is a modern asset manager browser system designed to
-help users to keep assets tidy and searchable. It aims to be fast and responsive even with a hight number of assets in the Library.
+Clayman is a modern asset manager browser system designed to help users to keep assets tidy and searchable. It aims to be fast and responsive even with a hight number of assets in the Library.
 
-**Download links**: Win / Linux / Mac
+Download links: **Win** / **Linux** / **Mac**
 
-**Application support**: Clarisse iFX 5.0 sp7+ Python3 (not yet public)
+Application support: **Clarisse iFX 5.0 sp7+ Python3 (not yet public)**
 
-#### Featureset:
-Clayman Asset Manager:
+#### Features:
+
+#### Clayman Asset Manager:
   - Standalone libraries driven by user configuration or environment variables
   - Library creation and loading, library history
   - Import, export and delete Asset Packages
@@ -26,7 +26,7 @@ Clayman Asset Manager:
   - Plugins (not in Alpha)
 
 
-Clayman Asset Import:
+#### Clayman Asset Import:
   - Asset import User interface
   - Copy Assets to Library
   - Link assets in the Packakge (no copy, reference already existing location)
@@ -38,8 +38,6 @@ Clayman Asset Import:
     - Surface, Geometry, Light, Volume, Brush, Preset, Project, File
     - Detection of imported asset types and properties per Type
   - Automatic texture conversion to various formats (not in Alpha)
-
-
 
 
   ---
