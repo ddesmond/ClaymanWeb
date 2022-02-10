@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+**Welcome to the offical repository of the famous Clayman Manager.**
 
-You can use the [editor on GitHub](https://github.com/ddesmond/ClaymanWeb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Clayman is a modern asset manager browser system designed to
+help users to keep assets tidy and searchable. It aims to be fast and responsive even with a hight number of assets in the Library.
+Libraries can be customized blabla
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Featureset:
+- Clayman Asset Manager:
+  - Standalone libraries driven by user configuration or environment variables
+  - Library creation and loading, library history
+  - Import, export and delete Asset Packages
+  - LibraryEngine python API for integrations in DCC
+  - Creation of Categories and QuickTags
+  - Creation of Search filters 
+  - Fast search by any keyword including names, tags, asset data
+  - Assets thumbnail and previews (only image support)
+  - Asset Editor showing Asset package data
+  - Customizable Asset Manager UI (add or remove UI elements to fit mixed workflows)
+  - Contextual menu items
+  - Shortcuts for Action
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+- Clayman Asset Import:
+  - Asset import User interface
+  - Copy Assets to Library
+  - Link assets in the Packakge (no copy, reference already existing location)
+  - Asset Tagging
+  - Asset Description
+  - Color Extraction (dominant colors)
+  - Image Conversion (limited support)
+  - Support for Asset types:
+    - Surface, Geometry, Light, Volume, Brush, Preset, Project, File
+    - Detection of imported asset types and properties per Type
+  - Automatic texture conversion to various formats (WIP)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  ---
+  
+Development status: **Beta**
 
-[Link](url) and ![Image](src)
-```
+**Platforms**: Win / Linux / Mac
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Python**: Python 3.7
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddesmond/ClaymanWeb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Clayman? Check out our [documentation](https://www.clayman.app/help) or [contact support](https://www.clayman.app/support)
+
+
+### Support or Contact
+Copyright 2022 All rights reserved. Obrt Dobro, Aleks Katunar
