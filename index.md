@@ -1,8 +1,13 @@
 <img src="splash.png">
-**Welcome to the offical repository of the famous Clayman Manager.**
+
+Welcome to the offical repository of the famous Clayman Manager.
 
 Clayman is a modern asset manager browser system designed to
 help users to keep assets tidy and searchable. It aims to be fast and responsive even with a hight number of assets in the Library.
+
+**Download links**: Win / Linux / Mac
+
+**Application support**: Clarisse iFX 5.0 sp7+ Python3 (not yet public)
 
 #### Featureset:
 - Clayman Asset Manager:
