@@ -3,23 +3,22 @@
 
 Clayman is a modern asset manager browser system designed to
 help users to keep assets tidy and searchable. It aims to be fast and responsive even with a hight number of assets in the Library.
-Libraries can be customized blabla
-
 
 #### Featureset:
 - Clayman Asset Manager:
   - Standalone libraries driven by user configuration or environment variables
   - Library creation and loading, library history
   - Import, export and delete Asset Packages
-  - LibraryEngine python API for integrations in DCC
+  - LibraryEngine python API for integrations in DCC (not in Alpha)
   - Creation of Categories and QuickTags
   - Creation of Search filters 
   - Fast search by any keyword including names, tags, asset data
   - Assets thumbnail and previews (only image support)
-  - Asset Editor showing Asset package data
+  - Asset Editor showing Asset package data 
   - Customizable Asset Manager UI (add or remove UI elements to fit mixed workflows)
   - Contextual menu items
-  - Shortcuts for Action
+  - Action shortcuts
+  - Plugins (not in Alpha)
 
 
 - Clayman Asset Import:
@@ -33,14 +32,14 @@ Libraries can be customized blabla
   - Support for Asset types:
     - Surface, Geometry, Light, Volume, Brush, Preset, Project, File
     - Detection of imported asset types and properties per Type
-  - Automatic texture conversion to various formats (WIP)
+  - Automatic texture conversion to various formats (not in Alpha)
 
 
 
 
   ---
   
-Development status: **Beta**
+**Development status:** Alpha
 
 **Platforms**: Win / Linux / Mac
 
