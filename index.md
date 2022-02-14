@@ -27,6 +27,7 @@ Application support:
   - Contextual menu items
   - Action shortcuts
   - Python Plugins support, user plugins loading (as Right click on package)
+  - Window Workspace UI states, Custom Workspace UI states, Predefined Workspace states
 
 
 #### Clayman Asset Import:
