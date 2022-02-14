@@ -15,6 +15,7 @@ Application support:
 #### Clayman Asset Manager:
   - Standalone libraries driven by user configuration or environment variables
   - Library creation and loading, library history
+  - Drag and Drop to Import new Asset
   - Import, export and delete Asset Packages
   - LibraryEngine python API for integrations in DCC (not in Alpha)
   - Creation of Categories and QuickTags
@@ -25,7 +26,7 @@ Application support:
   - Customizable Asset Manager UI (add or remove UI elements to fit mixed workflows)
   - Contextual menu items
   - Action shortcuts
-  - Plugins (not in Alpha)
+  - Python Plugins support, user plugins loading (as Right click on package)
 
 
 #### Clayman Asset Import:
@@ -34,7 +35,7 @@ Application support:
   - Link assets in the Packakge (no copy, reference already existing location)
   - Asset Tagging
   - Asset Description
-  - Color Extraction (dominant colors)
+  - Fast Color Extraction (dominant colors)
   - Image Conversion (limited support)
   - Support for Asset types:
     - Surface, Geometry, Light, Volume, Brush, Preset, Project, File
