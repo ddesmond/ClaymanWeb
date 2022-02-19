@@ -7,10 +7,10 @@ Clayman is a modern asset manager browser system designed to help users to keep 
 Download links: **Win** / **Linux** / **Mac**
 
 Application support:
-**Clarisse iFX 5.0 sp7b+ Python 3.7**
-**Clarisse iFX 4.0 sp17 Python 2.7**
+ - **Clarisse iFX 5.0 sp7b+ Python 3.7**
+ - **Clarisse iFX 4.0 sp17 Python 2.7**
 
-#### Features:
+
 
 #### Clayman Asset Manager:
 
@@ -57,7 +57,7 @@ Application support:
   
  
   
-**Development status:** Alpha
+**Development status:** Alpha > Beta
 
 **Platforms**: Win / Linux / Mac
 
