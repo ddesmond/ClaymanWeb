@@ -22,14 +22,14 @@ Application support:
   - LibraryEngine v1.0 Python API for integrations in DCC (not in Alpha)
   - Creation of Categories and QuickTags and Search filters 
   - Fast search by any keyword including names, tags, asset info data
-  - Assets thumbnail and previews (only image support)
+  - Assets thumbnail and previews (images, video mp4 support)
   - Asset Editor v1.0 to edit an Asset Package
   - Threaded actions where available with Job Que v1.0 (import archive , export archive, delete, duplicate, variant)
-  - Customizable Asset Manager UI (add or remove UI elements to fit mixed workflows)
+  - Customizable Asset Manager UI (add or remove UI elements to fit mixed workflows) with shortcuts
   - Contextual menu items and Action shortcuts
   - User Python Plugins v1.0 support and loading (as Right click on package)
-  - Dockable Workspace UI states, Custom Dockable Workspace UI states, Predefined Workspace states
-  - Customizable splash screen
+  - Dockable Workspace UI layouts, Custom Dockable Workspace UI layouts, Predefined Workspace layouts
+  - Customizable splash screen, random Unsplash surprises
 
 
 #### Clayman Asset Import:
@@ -41,7 +41,7 @@ Application support:
   - Fast Dominant Color Extraction (dominant colors)
   - Image Conversion (limited support)
   - Support for Asset types:
-    - Surface, Geometry, Light, Volume, Brush, Preset, Project, File
+    - Surface, Geometry, Light, Volume, Brush, Preset, Project, File, Video, Sequence
     - Detection of imported asset types and properties per Type
   - Automatic texture conversion to various formats (not in Alpha)
   - Asset Package v1.0
