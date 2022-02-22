@@ -43,3 +43,8 @@ Clayman Club License is valid forever and tied to your email address.
 **Clayman in Production**
 
 You used Clayman in production and you want to show off your work? Great! Shoot Clayman a message and he will add you to the site!
+
+
+
+---
+Copyright 2022 All rights reserved. Obrt Dobro, Aleks Katunar, Žabica 1, 51000 Rijeka, Croatia, Europe, Earth, Milky way
