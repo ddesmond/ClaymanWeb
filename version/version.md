@@ -1,13 +1,13 @@
 {
   "Darwin": {
     "version": "0.2.0_Beta",
-    "hash": "69fd30565fde0b5a769fbbb91827ad21",
-    "size": "66852144"
+    "hash": "379e470ed1b5d8858a742ab8dfb2a204",
+    "size": "66852359"
   },
   "Windows": {
     "version": "0.2.0_Beta",
-    "hash": "48e483a31976953f8032fd2c3c5c4cdd",
-    "size": "70705766"
+    "hash": "e5a19c4cb8216cb3062b614af9f921a8",
+    "size": "70705787"
   },
   "Linux": {
     "version": "0.1.0",
