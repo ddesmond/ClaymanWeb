@@ -70,4 +70,4 @@ Having trouble with Clayman? Check out our [documentation](https://www.clayman.a
 
 
   ---
-Copyright 2022 All rights reserved. Obrt Dobro, Aleks Katunar
+Copyright 2022 All rights reserved. Obrt Dobro, Aleks Katunar, Žabica 1, 51000 Rijeka, Croatia, Europe, Earth, Milky way
