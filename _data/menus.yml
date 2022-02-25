@@ -1,6 +1,6 @@
 docs_list_title: Clayman Help
 docs:
 - title: General Interface Guide
-  url: help/interface.md
+  url: help/interface
 - title: General Create / Import Guide
-  url: import.html
+  url: help/import
