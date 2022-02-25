@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 body {
   font-family: Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   color: #656566;
   background-color: #262528;
+}
+a {
+  color: #0086b3;
 }
