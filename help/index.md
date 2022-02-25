@@ -1,9 +1,11 @@
-{% assign doclist = site.data.menus.menus %}
+
 <nav>
+{% assign doclist = site.data.menus.menus %}
 {% for item in doclist %}<a style="display:block;float:left;width:120px;" href="{{ item.url }}">{{ item.title }}</a>{% endfor %}
 </nav>
 
 
+----
 Clayman Help! :)
 
 General Asset Import guide: 
