@@ -1,7 +1,4 @@
-{% assign doclist = site.data.menus.menus %}
-{% for item in doclist %}
-<a href="{{ item.url }}">{{ item.title }}</a> | 
-{% endfor %}
+{% include nav.html %}
 
 
 <h3><b>Creating an Asset Package</b></h3>
