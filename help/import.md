@@ -1,3 +1,9 @@
+{% assign doclist = site.data.menus.docs | sort: 'title'  %}
+{% for item in doclist %}
+<a href="{{ item.url }}">{{ item.title }}</a> | 
+{% endfor %}
+
+
 <h3><b>Creating an Asset Package</b></h3>
 
 To <b>Create a new package</b>, while in the Desktop application, simply drop your files over the Clayman application or press the **+** icon in the toolbar. This will trigger the Import popup window to appear over Clayman.
