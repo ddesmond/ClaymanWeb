@@ -1,4 +1,4 @@
-{% assign doclist = site.data.menus.docs | sort: 'title'  %}
+{% assign doclist = site.data.menus.menus %}
 {% for item in doclist %}
 <a href="{{ item.url }}">{{ item.title }}</a> | 
 {% endfor %}
