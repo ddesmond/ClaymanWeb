@@ -4,7 +4,7 @@ General Asset Import guide:
 [Work with Asset Importer](/help/import)
 
 General Interface guide: 
-[Work with Asset Importer](/help/interface)
+[Interface Guide](/help/interface)
 
 ----
 HowTos:
@@ -16,7 +16,7 @@ HowTos:
 
 [Import / Export Archived Package](/help/howto/import_export_archive)
 
-[Work with tags](/help/howto/tags)
+[Work with Tags](/help/howto/tags)
 
 [Work with Viewer and Metadata](/help/howto/metaviews)
 
