@@ -1,12 +1,3 @@
-
-<nav id="navbar">
-{% assign doclist = site.data.menus.menus %}
-{% for item in doclist %}
-<a style="display:block;float:left;width:120px;" href="{{ item.url }}">{{ item.title }}</a>
-{% endfor %}
-</nav>
-<br>
-
 {% include nav.html %}
 
 
