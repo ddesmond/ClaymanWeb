@@ -22,7 +22,7 @@ Clayman consist of tabs and widgets. Those can be shown and configured how user 
 <img src="/help/media/clayman_collections.png" height="500"> 
 
 <h4><b>Library View</b></h4>
-<img src="/help/media/clayman_library_view.png" height="500"> 
+<img src="/help/media/clayman_library_view.png" width="500"> 
 
 
 <h4><b>Asset and Metadata Views</b></h4>
