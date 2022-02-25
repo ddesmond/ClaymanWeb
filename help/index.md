@@ -7,6 +7,7 @@
 </nav>
 <br>
 
+{% include nav.html %}
 
 
 ----
