@@ -1,3 +1,7 @@
+{% include howto.html %}
+----
+
+
 <h3><b>Clayman HowTo's</b></h3>
 
 <h4><b>Export Package as an archive package</b></h4>
