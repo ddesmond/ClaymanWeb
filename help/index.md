@@ -1,7 +1,7 @@
 {% assign doclist = site.data.menus.menus %}
 <nav>
 	<ul style="list-style: none;">
-      		{% for item in doclist %}<li><a style="display:block;float:left;" href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
+      		{% for item in doclist %}<li><a style="display:block;float:left;width:120px;" href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
    	 </ul>
 </nav>
 
