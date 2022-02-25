@@ -1,3 +1,6 @@
+{% include nav.html %}
+
+
 Current Alpha builds:
 
 [Windows 10](https://www.clayman.app/alpha/downloads/)
