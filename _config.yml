@@ -1,8 +1,6 @@
-#theme: jekyll-theme-tactile
+theme: jekyll-theme-tactile
 remote_theme: benc-uk/theme-msdark
 title: Clayman Asset Manager
 url: 'https://www.clayman.app/'
 baseurl: ''
 hide_github: true
-
-theme: jekyll-theme-tactile
