@@ -4,3 +4,13 @@ docs:
   url: https://www.clayman.app/help/interface
 - title: General Create / Import Guide
   url: https://www.clayman.app/help/import
+menus_list_title: Clayman Menu
+menus:
+- title: Home
+  url: https://www.clayman.app
+- title: Help
+  url: https://www.clayman.app/help
+- title: Support
+  url: https://www.clayman.app/support
+- title: Download
+  url: https://www.clayman.app/download
