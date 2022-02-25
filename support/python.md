@@ -1,3 +1,8 @@
+{% assign doclist = site.data.menus.menus %}
+{% for item in doclist %}
+<a href="{{ item.url }}">{{ item.title }}</a> | 
+{% endfor %}
+
 #### Python dependencies install
 
 For Clayman to be able to run inside another software additional python packages needs to be installed. 
