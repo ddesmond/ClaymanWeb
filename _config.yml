@@ -4,3 +4,5 @@ title: Clayman Asset Manager
 url: 'https://www.clayman.app/'
 baseurl: ''
 hide_github: true
+
+theme: jekyll-theme-tactile
