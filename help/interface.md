@@ -24,7 +24,22 @@ Clayman consist of tabs and widgets. Those can be shown and configured how user 
 <h4><b>Library View</b></h4>
 <img src="/help/media/clayman_library_view.png" width="500"> 
 
-
 <h4><b>Asset and Metadata Views</b></h4>
 <img src="/help/media/clayman_asset_metadat_view.png" height="500"> 
+
+<h4><b>Asset Editor</b></h4>
+<img src="/help/media/clayman_editor.png" height="600"> 
+
+<h4><b>Job Que View</b></h4>
+<img src="/help/media/clayman_job_view.png" width="400"> 
+
+<h4><b>Log View</b></h4>
+<img src="/help/media/clayman_log_view.png" width="400"> 
+
+<h4><b>Preferences</b></h4>
+<img src="/help/media/clayman_preferences.png" height="500"> 
+
+<h4><b>Invalid Packages</b></h4>
+<img src="/help/media/clayman_invalid_packages.png" height="400"> 
+
 
