@@ -1,21 +1,28 @@
 Clayman Help! :)
+
+General Asset Import guide: 
+[Work with Asset Importer](/help/import)
+
+General Interface guide: 
+[Work with Asset Importer](/help/interface)
+
 ----
 HowTos:
 
 
-[Create Package](/help/howto/create_package.md)
+[Create Package](/help/howto/create_package)
 
-[Delete Package](/help/howto/delete_package.md)
+[Delete Package](/help/howto/delete_package)
 
-[Import / Export Archived Package](/help/howto/import_export_archive.md)
+[Import / Export Archived Package](/help/howto/import_export_archive)
 
-[Work with tags](/help/howto/tags.md)
+[Work with tags](/help/howto/tags)
 
-[Work with Viewer and Metadata](/help/howto/metaviews.md)
+[Work with Viewer and Metadata](/help/howto/metaviews)
 
-[Work with Collections - Categories](/help/howto/categories_colllections.md)
+[Work with Collections - Categories](/help/howto/categories_colllections)
 
-[Add Any file as Package](/help/howto/add_any_file.md)
+[Add Any file as Package](/help/howto/add_any_file)
 
 
 
