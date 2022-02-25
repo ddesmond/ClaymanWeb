@@ -1,3 +1,8 @@
+{% assign doclist = site.data.menus.menus %}
+{% for item in doclist %}
+<a href="{{ item.url }}">{{ item.title }}</a> | 
+{% endfor %}
+
 ### Support Clayman development!
 
 If you want to **support** **Clayman development** and new features, take a minute and consider one of the following license models.
