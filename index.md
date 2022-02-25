@@ -1,3 +1,7 @@
+{% include nav.html %}
+
+----
+
 <img src="splash.png">
 
 **Welcome to the offical repository of the famous Clayman Manager.**
