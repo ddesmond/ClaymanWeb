@@ -1,2 +1,5 @@
 theme: jekyll-theme-tactile
-title: Clayman
+title: Clayman Asset Manager
+url: 'https://www.clayman.app/'
+baseurl: ''
+
