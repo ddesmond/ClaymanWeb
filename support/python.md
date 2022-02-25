@@ -1,7 +1,5 @@
-{% assign doclist = site.data.menus.menus %}
-{% for item in doclist %}
-<a href="{{ item.url }}">{{ item.title }}</a> | 
-{% endfor %}
+{% include nav.html %}
+
 
 #### Python dependencies install
 
