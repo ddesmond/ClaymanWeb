@@ -1,8 +1,8 @@
 {% assign doclist = site.data.menus.menus %}
 <nav>
-		<ul>
-      {% for item in doclist %}<li><a style="display:block;float:left;" href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
-    </ul>
+	<ul style="list-style: none;">
+      		{% for item in doclist %}<li><a style="display:block;float:left;" href="{{ item.url }}">{{ item.title }}</a></li>{% endfor %}
+   	 </ul>
 </nav>
 
 
