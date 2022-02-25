@@ -2,4 +2,4 @@
 
 
 <h4><b>Creating / Import a Package</b></h4>
-<img src="https://www.clayman.app/help/media/gifs/clayman_howto_importing.gif" width=100%>
+![image]({{site.baseurl | prepend: site.url}}help/media/gifs/clayman_howto_importing.gif)
