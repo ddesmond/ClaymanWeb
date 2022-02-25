@@ -7,7 +7,7 @@ docs:
 menus_list_title: Clayman Menu
 menus:
 - title: Home
-  url: https://www.clayman.app
+  url: /
 - title: Help
   url: https://www.clayman.app/help
 - title: Support
