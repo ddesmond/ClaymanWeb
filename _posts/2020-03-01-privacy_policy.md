@@ -7,7 +7,7 @@ permalink: /privacy_policy
 
 
 #### WHO ARE WE?
-This policy applies to the processing (use) of any personal data carried out by Claython website or performed on behalf of the operator.
+This policy applies to the processing (use) of any personal data carried out by Clayman website or performed on behalf of the operator.
 
 
 ##### OPERATOR DETAILS:
@@ -57,7 +57,7 @@ The provision of personal data is voluntary. You do not have to provide us with 
 
 
 #### WHO CAN ACCESS YOUR PERSONAL INFORMATION?
-We do not provide your personal information to third parties (outside Claython/DOBRO), except for those who have a written contract with us, that they perform certain tasks related to data processing and are obliged to comply with the legislation regarding the processing and protection of personal data (e.g. contractors).
+We do not provide your personal information to third parties (outside Clayman/DOBRO), except for those who have a written contract with us, that they perform certain tasks related to data processing and are obliged to comply with the legislation regarding the processing and protection of personal data (e.g. contractors).
 
 #### Contractors to whom we provide personal information are:
 
