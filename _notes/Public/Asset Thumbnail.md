@@ -9,11 +9,12 @@ When importing and creating a Package, a thumbnail representing the package cont
 
 Thumbnails will show correctly only when set to square format. So keeping yout thumbs square in any res is a good rule of thumb. 
 
-Currently (Alpha/Beta builds) only Jpg and Png file formats are accepted as valid files wich will be processed as thumbnails. Png transparency is supported.
+Clayman can read many image types trough OpenImageIO library.
+That means that Clayman should be able to read all supported format in OpenImageIO v2.
 
-In the processing the image colors are extracted into 3 dominant colors which are then written into the package data. Lower resolution version of the thumbnail is written as a cache thumbnail (512px).
+In the processing part, the image colors are extracted into 3 dominant colors which are then written into the package data. Lower resolution version of the thumbnail is written as a cache thumbnail (512px).
 
-If there is no thumbnail selected, then the extension type of the fird droped files is taken as thumbnail.
+If there is no thumbnail selected, then the extension type of the droped files is taken as thumbnail.
 
 If no thumbnail data is present or not valid, the data type icon is shown.
 
