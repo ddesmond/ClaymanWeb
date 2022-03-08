@@ -14,7 +14,7 @@ This is very convinient if you plan to change the assets or number of asset item
 Learn more about Clayman!
 
 [[Clayman Interface]] | 
-[[Importing assets]] | 
+[[Importing Assets]] | 
 [[Work with Tags]] | 
 [[Clayman User Folder]]
 [[Environment Variables]] |
@@ -25,7 +25,7 @@ Learn more about Packages:
 [[Create - Import a Package]] | 
 [[Delete a Package]] | 
 [[Import - Export Package]] | 
-[[Importing assets]] | 
+[[Importing Assets]] | 
 [[Work with Tags]] | 
 [[Rebuild Package]] | 
 [[Edit Asset Package]] | 

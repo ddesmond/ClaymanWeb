@@ -36,7 +36,7 @@ Wait until progress says 100% !</b>
 Learn more about Clayman!
 
 [[Clayman Interface]] | 
-[[Importing assets]] | 
+[[Importing Assets]] | 
 [[Work with Tags]] | 
 
 Learn more about Packages:
@@ -44,5 +44,5 @@ Learn more about Packages:
 [[Create - Import a Package]] | 
 [[Delete a Package]] | 
 [[Import - Export Package]] | 
-[[Importing assets]] | 
+[[Importing Assets]] | 
 [[Work with Tags]]

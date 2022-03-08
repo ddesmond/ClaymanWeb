@@ -22,7 +22,7 @@ If you want to Rebuild the package instead check the  [[Rebuild Package]] help.
 Learn more about Clayman!
 
 [[Clayman Interface]] | 
-[[Importing assets]] | 
+[[Importing Assets]] | 
 [[Work with Tags]] | 
 [[Clayman User Folder]]
 [[Environment Variables]] |
@@ -33,7 +33,7 @@ Learn more about Packages:
 [[Create - Import a Package]] | 
 [[Delete a Package]] | 
 [[Import - Export Package]] | 
-[[Importing assets]] | 
+[[Importing Assets]] | 
 [[Work with Tags]] | 
 [[Rebuild Package]] | 
 [[Edit Asset Package]] | 

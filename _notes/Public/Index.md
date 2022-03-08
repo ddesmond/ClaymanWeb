@@ -8,7 +8,7 @@ General Asset Import guide:
 
 [[Clayman Interface]]
 
-[[Importing assets]]
+[[Importing Assets]]
 
 [[Add Any File]]
 
@@ -26,7 +26,7 @@ Learn more about Packages:
 
 [[Import - Export Package]]
 
-[[Importing assets]]
+[[Importing Assets]]
 
 [[Work with Tags]]
 
