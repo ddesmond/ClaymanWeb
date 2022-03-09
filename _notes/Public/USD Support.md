@@ -4,8 +4,9 @@ notetype : feed
 date : 22-02-2022
 ---
 ### USD Support
+Feature not yet public, WIP
 
-Current version is 22.08
+Current version is 22.03
 
 Build full USD:
 
@@ -21,4 +22,7 @@ Add both PYTHONPATH and PATH Environment variables so the libraries are accesibl
 
 
 Bring your own USD :)
-Just drop 
+Just drop-in your own usd libraries, means, Clayman in DCC will use any oiioo / ocio / usd libraries you provide.
+
+You need PySide2 available (5.12 +) so USD compiles correctly for Clayman.
+
