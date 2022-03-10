@@ -18,4 +18,23 @@ date : 22-02-2022
  - Beefy CPU - For Workers process, more CPU faster Workers
  - Beefy GPU - 4gb VRAM or more for loading complex 3d assets
 
- 
+
+
+Learn more about Clayman!
+
+[[Clayman Interface]] | 
+[[Importing Assets]] | 
+[[Work with Tags]] | 
+[[Clayman User Folder]]
+[[Environment Variables]]
+
+
+Learn more about Packages:
+
+[[Create - Import a Package]] | 
+[[Delete a Package]] | 
+[[Import - Export Package]] | 
+[[Importing Assets]] | 
+[[Work with Tags]] | 
+[[Rebuild Package]] | 
+[[Edit Asset Package]] 

@@ -26,3 +26,24 @@ Just drop-in your own usd libraries, means, Clayman in DCC will use any oiioo / 
 
 You need PySide2 available (5.12 +) so USD compiles correctly for Clayman.
 
+
+
+
+Learn more about Clayman!
+
+[[Clayman Interface]] | 
+[[Importing Assets]] | 
+[[Work with Tags]] | 
+[[Clayman User Folder]]
+[[Environment Variables]]
+
+
+Learn more about Packages:
+
+[[Create - Import a Package]] | 
+[[Delete a Package]] | 
+[[Import - Export Package]] | 
+[[Importing Assets]] | 
+[[Work with Tags]] | 
+[[Rebuild Package]] | 
+[[Edit Asset Package]] 

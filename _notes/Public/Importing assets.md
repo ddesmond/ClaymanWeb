@@ -1,5 +1,5 @@
 ---
-title: Importing assets
+title: Importing Assets
 notetype : feed
 date : 22-02-2022
 ---
