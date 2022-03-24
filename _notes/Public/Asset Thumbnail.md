@@ -28,7 +28,7 @@ Learn more about Clayman!
 [[Clayman Interface]] | 
 [[Importing Assets]] | 
 [[Work with Tags]] | 
-[[Clayman User Folder]]
+[[Clayman User Folder]] | 
 [[Environment Variables]]
 
 

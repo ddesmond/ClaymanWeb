@@ -15,3 +15,10 @@ The ingesting process will take some time to finish, so be patient if you have a
 Clarisse will load any Megascans asset trough the Clarisse Survival Kit.
 
 
+Learn more about Clayman!
+
+[[Clayman Interface]] | 
+[[Importing Assets]] | 
+[[Work with Tags]] | 
+[[Clayman User Folder]] | 
+[[Environment Variables]]
