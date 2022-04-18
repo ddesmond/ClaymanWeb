@@ -29,6 +29,17 @@ permalink: /integrations
 </div>
 </div>
 
+<div id="Integrations">
+<div class="block column is-4" style="display:block; clear: both; float: left; position: relative;">
+	<b>Clayman For Unreal5</b>
+	<div class="img">
+	<img src="/assets/media/clayman_inapp_wip.png"> 
+	</div><hr style="background-color:#424242;">
+</div>
+<div class="block column is-8" style="display:block; float: left; position: relative;">
+	<b>Integration Not yet avialable</b><br>
+</div>
+</div>
 
 <div id="Integrations">
 <div class="block column is-4" style="display:block; clear: both; float: left; position: relative;">
