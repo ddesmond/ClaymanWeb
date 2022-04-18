@@ -17,10 +17,6 @@ If you see the Updater hanging and not downloading the updated files check your 
 Clayman will always check for hashes on the updates before any update to be sure the files are correct.
 
 
-##### Public Beta users:
-In the Beta, user is not prompted for auto updates, Clayman will not automaticaly do that.
-
-
 
 
 Learn more about Clayman!
