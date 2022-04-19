@@ -43,13 +43,19 @@ permalink: /integrations
 
 <div id="Integrations">
 <div class="block column is-4" style="display:block; clear: both; float: left; position: relative;">
-	<b>Clayman For Houdini</b>
+	<b>Clayman For Houdini - work in progress</b>
 	<div class="img">
 	<img src="/assets/media/clayman_inapp_wip.png"> 
 	</div><hr style="background-color:#424242;">
 </div>
 <div class="block column is-8" style="display:block; float: left; position: relative;">
-	<b>Integration Not yet avialable</b><br>
+	<b>Install</b><br>
+	Click on the <b>Install Houdini Integration</b> From the Integrations menus<br>
+	<br>
+	<b>Support:</b><br>
+	- Support for Mantra and Arnold shaders<br>
+	- Support for loading HDRI files as ENV Lights<br>
+	- Load package items as individual files not yet supported<br>
 </div>
 </div>
 
