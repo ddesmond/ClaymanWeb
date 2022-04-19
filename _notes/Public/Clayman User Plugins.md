@@ -1,9 +1,9 @@
 ---
-title : Custom plugins
+title : Clayman User Plugins
 notetype : feed
 date : 22-02-2022
 ---
-### Custom plugins
+### Clayman User Plugins
 
 
 
