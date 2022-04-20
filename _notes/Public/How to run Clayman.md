@@ -7,7 +7,9 @@ date : 20-04-2022
 
 
 Download the Zip file from the Downloads section and unzip it where you want to run it from.
+
 Run Clayman.exe on Windows or Clayman on Mac / Linux.
+
 
 
 
