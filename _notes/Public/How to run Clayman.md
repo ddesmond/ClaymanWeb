@@ -1,7 +1,7 @@
 ---
 title : How to run Clayman
 notetype : feed
-date : 22-02-2022
+date : 20-04-2022
 ---
 ### How to run Clayman
 
