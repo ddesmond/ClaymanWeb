@@ -6,7 +6,7 @@ date : 11-04-2022
 ### Update Clayman
 
 Updating Clayman to a new version is very simple!
-Under the Hel Menu, click on Update Clayman.
+Under the Help Menu, click on Update Clayman.
 
 The updater will open where you can check for updates.
 If there is new version you will be able do download and install it automaticaly!
