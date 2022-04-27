@@ -35,5 +35,20 @@
         <a href="../company">Dobro information</a> - <a href="../privacy_policy">Privacy policy</a> - <a href="../terms_and_conditions">Terms and Conditions</a> - <a href="../company">Contact</a></p>
 </div> 
 <script src="/assets/js/modeswitcher.js"></script>
-
+  <script>
+    $.getJSON('https://api.db-ip.com/v2/free/self', function(data) {
+      //console.log(JSON.stringify(data, null, 2));
+      if (data.countryCode == "CN") {
+            $(".inform").remove();
+            $('.block').html('<h1>404 Error. Please check back later.</h1>');
+            $('.navbarBasicExample').html('#');
+            $("#beta").remove();
+            $("#copyright").remove();
+            $(".support-clayman").remove();
+            $(".content").remove();
+        }
+    });
+    </script>
 {%- endif -%}
+
+
