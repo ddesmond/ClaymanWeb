@@ -45,7 +45,7 @@ permalink: /integrations
 <div class="block column is-4" style="display:block; clear: both; float: left; position: relative;">
 	<b>Clayman For Houdini - work in progress</b>
 	<div class="img">
-	<img src="/assets/media/clayman_inapp_wip.png"> 
+	<img src="/assets/media/clayman_in_app.png"> 
 	</div><hr style="background-color:#424242;">
 </div>
 <div class="block column is-8" style="display:block; float: left; position: relative;">
