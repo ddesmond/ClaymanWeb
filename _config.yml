@@ -129,7 +129,9 @@ defaults:
       layout: Post
       permalink: /help/:title
       content-type: notes
-
+      
+# Google Analytics
+google_analytics: G-H17SVS6NDF
 
 # Exclude from processing.
 # The following items will not be processed, by default.
