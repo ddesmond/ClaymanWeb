@@ -25,3 +25,4 @@ After your email has been matched against the licensees / supporters list you wi
 Enter your license key you have recieved in the Email or message and press Save button after you have entered the license key!
 Thanks for supporting Clayman development and getting yourself a shiny new License!
 
+![image]({{site.baseurl | prepend: site.url}}assets/media/license/licenses-flow.png)
