@@ -19,7 +19,6 @@ If there is no thumbnail selected, then the extension type of the droped files i
 If no thumbnail data is present or not valid, the data type icon is shown.
 
 In the Asset view, clicked items are shown the same way.
-If image can be loaded it will be shown (Alpha / Beta: only png, jpg, gif data is shown, mp4 for video, no sequence support)
 
 You can change the thumbnail at any time by right clicking on the asset and selecting Update Asset Thumbnail.
 
