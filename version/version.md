@@ -1,8 +1,8 @@
 {
   "Darwin": {
     "version": "0.4.0_Beta",
-    "hash": "7d2615d548d3923d7c0229adabc30b03",
-    "size": "220705217"
+    "hash": "0f380e864b21efbda4808946a1454b06",
+    "size": "220669327"
   },
   "Windows": {
     "version": "0.3.3_Beta",
